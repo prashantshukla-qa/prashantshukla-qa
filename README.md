@@ -7,7 +7,7 @@
   
   # QA Engineer / Test Automation Enthusiast
   
-  #### Exploring 'Best Way to Test' | Mentor | QA Director at big testing pure play company
+  #### Exploring 'Best Way to Test' | Mentor | QA Director at QA InfoTech - A Qualitest Company
   #### Visit me at https://prashantshukla.me
   
   ----
