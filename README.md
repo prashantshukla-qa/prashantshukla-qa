@@ -1,3 +1,8 @@
+  <p align="center">
+    <img src="assets/MyWebsiteheader.gif" height="70%">
+  </p>
+  
+  
   # QA Engineer / Test Automation Enthusiast
   
   #### Exploring 'Best Way to Test' | Mentor | QA Director at big testing pure play company
