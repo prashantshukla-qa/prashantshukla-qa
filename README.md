@@ -1,11 +1,14 @@
   <p align="center">
-    <img src="assets/MyWebsiteheader.gif" height="70%">
+    <a href="https://prashantshukla.me">
+      <img src="assets/MyWebsiteheader.gif" height="70%">
+    </a>
   </p>
   
   
   # QA Engineer / Test Automation Enthusiast
   
   #### Exploring 'Best Way to Test' | Mentor | QA Director at big testing pure play company
+  #### Visit me at https://prashantshukla.me
   
   ----
   
@@ -25,3 +28,5 @@
   
  ----
     
+<h2 align="left">:star: Let's Connect: :star:</h2>
+[![Linkedin Badge](https://img.shields.io/badge/-Prashant%20Shukla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shuklaprashantqa/)](https://www.linkedin.com/in/shuklaprashantqa/)
