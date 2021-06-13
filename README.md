@@ -7,7 +7,7 @@
   
   # QA Engineer / Test Automation Enthusiast
   
-  #### Exploring 'Best Way to Test' | Mentor | QA Director at QA InfoTech - A Qualitest Company
+  #### Exploring 'Best Ways to Test' | Mentor | QA Director at QA InfoTech - A Qualitest Company
   #### Visit me at https://prashantshukla.me
   
   ----
